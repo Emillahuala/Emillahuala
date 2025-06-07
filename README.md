@@ -20,12 +20,26 @@
 
 ---
 
-## 🛠️ Tech Stack Futurista
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,spring,dotnet,docker,linux,vscode,github,git,azure,aws,python" />
+p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
 </p>
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
 ---
 
 ## ⚙️ Herramientas Inteligentes
