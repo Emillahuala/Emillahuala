@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Estudiante de Ingeniería en Informática y Ciberseguridad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Backend+Developer;Security+Enthusiast;Node.js+%7C+Spring+Boot+%7C+.NET+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Backend+Developer;Security+Enthusiast;Node.js+%7C" alt="Typing SVG" />
 </p>
 
 ---
