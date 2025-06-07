@@ -6,18 +6,13 @@
 
 
 
+## 🧠 Sobre mí
 
-- 🔭 I’m currently working on: **My side projects**
-
-- 🌱 I’m currently learning: **MERN stack**
-
-- 👯 I’m looking to collaborate on: **Interesting open source projects**
-
-- 💬 Ask me about: **TypeScript, Nodejs, Express**
-
-- 📫 How to reach me: **Drop me an email at elias.maximiliano1418@gmail.com**
-
-- ⚡ Fun fact: **Debugging was coined after removing bugs from computer hardware.**
+- 🔭 Actualmente desarrollando sistemas con **Node.js, Express, TypeScript, JWT y PostgreSQL**
+- 🌱 Aprendiendo **Spring Boot** y **.NET para backend empresarial**
+- 💡 Apasionado por la **ciberseguridad**, **arquitectura limpia**, y la **automatización**
+- 👨‍💻 Siempre mejorando y documentando mis proyectos en GitHub
+- 📫 Contacto: `elias.maximiliano1418@gmail.com`
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
