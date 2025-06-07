@@ -12,7 +12,7 @@
 - 🌱 Aprendiendo **Spring Boot** y **.NET para backend empresarial**
 - 💡 Apasionado por la **ciberseguridad**, **arquitectura limpia**, y la **automatización**
 - 👨‍💻 Siempre mejorando y documentando mis proyectos en GitHub
--📫 Contacto: [tucorreo@ejemplo.com](elias.maximiliano1418.com)
+- 📫 Contacto: [tucorreo@ejemplo.com](elias.maximiliano1418@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
