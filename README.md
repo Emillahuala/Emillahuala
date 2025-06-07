@@ -4,9 +4,8 @@
 <h1 align="center">Hi 👋, I'm Elias Millahuala</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
+
 
 - 🔭 I’m currently working on: **My side projects**
 
@@ -14,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on: **Interesting open source projects**
 
-- 💬 Ask me about: **Java, SpringBoot, Express**
+- 💬 Ask me about: **TypeScript, Nodejs, Express**
 
 - 📫 How to reach me: **Drop me an email at elias.maximiliano1418@gmail.com**
 
@@ -22,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjwalbhatt09" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/elias-millahuala-4a7a19293/?trk=opento_sprofile_topcard" target="blank"><img align="center" src="https://raw.githubusercontent.com/Emillahuala/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Emillahuala-b256271a3" height="30" width="40" /></a>
 <a href="https://instagram.com/mximilivnoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ujjwalbhatt" height="30" width="40" /></a>
 
@@ -31,6 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ujjwalb09&show_icons=true&locale=en&layout=compact" alt="ujjwalb09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ujjwalb09&show_icons=true&locale=en" alt="ujjwalb09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujjwalb09&" alt="ujjwalb09" /></p>
